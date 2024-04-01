@@ -1,2 +1,1 @@
-"# todos"
-this is cli based todos.
+This is cli based todos.
